@@ -19,6 +19,16 @@
   
   链接：https://pan.baidu.com/s/1IVmRbG0DhOPB06mr1A_SJQ 提取码：8a7r
   
+
+# 花样滑冰分层数据集 FSHD-10
+
+  对应论文投稿中
+  
+  该数据集分成训练部分traindatas和测试部分valdatas，标签分为大类标签big和小类标签。
+  
+  链接：https://pan.baidu.com/s/1t2riMAmac2K5ZvnMgI1cLw 提取码：fshd
+  
+  
   
 # 主要论文
 # 在研项目
